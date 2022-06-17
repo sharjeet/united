@@ -1,0 +1,11 @@
+[18-Jun-2021 19:26:33 UTC] PHP Notice:  Undefined variable: from in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:26:33 UTC] PHP Notice:  Undefined variable: from in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:26:33 UTC] PHP Notice:  Undefined variable: headers in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:27:02 UTC] PHP Notice:  Undefined variable: from in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:27:02 UTC] PHP Notice:  Undefined variable: from in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:27:02 UTC] PHP Notice:  Undefined variable: headers in /home/unitmfcm/public_html/text.php on line 8
+[18-Jun-2021 19:30:46 UTC] PHP Notice:  Undefined index: sendflag in /home/unitmfcm/public_html/text.php on line 6
+[18-Jun-2021 19:30:46 UTC] PHP Notice:  Undefined index: name in /home/unitmfcm/public_html/text.php on line 7
+[18-Jun-2021 19:30:49 UTC] PHP Notice:  Undefined index: sendflag in /home/unitmfcm/public_html/text.php on line 6
+[18-Jun-2021 19:30:49 UTC] PHP Notice:  Undefined index: name in /home/unitmfcm/public_html/text.php on line 7
+[18-Jun-2021 19:53:20 UTC] PHP Notice:  Undefined variable: mailheader in /home/unitmfcm/public_html/contact-form-process.php on line 11
